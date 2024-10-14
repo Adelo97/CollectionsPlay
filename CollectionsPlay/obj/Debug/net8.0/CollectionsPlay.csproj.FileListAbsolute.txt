@@ -1,0 +1,5 @@
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.AssemblyInfoInputs.cache
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.AssemblyInfo.cs
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.csproj.CoreCompileInputs.cache
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.sourcelink.json
