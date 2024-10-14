@@ -3,3 +3,17 @@ C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\D
 C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.AssemblyInfo.cs
 C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.csproj.CoreCompileInputs.cache
 C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.sourcelink.json
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\bin\Debug\net8.0\CollectionsPlay.exe
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\bin\Debug\net8.0\CollectionsPlay.deps.json
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\bin\Debug\net8.0\CollectionsPlay.runtimeconfig.json
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\bin\Debug\net8.0\CollectionsPlay.dll
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\bin\Debug\net8.0\CollectionsPlay.pdb
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\bin\Debug\net8.0\seedGenerator.dll
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\bin\Debug\net8.0\seedGenerator.pdb
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.csproj.AssemblyReference.cache
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\Collecti.150DFF23.Up2Date
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.dll
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\refint\CollectionsPlay.dll
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.pdb
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\CollectionsPlay.genruntimeconfig.cache
+C:\Users\adel9\OneDrive\OPG1\opg\my repots\CollectionsPlay\CollectionsPlay\obj\Debug\net8.0\ref\CollectionsPlay.dll
