@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\CollectionsPlay\\CollectionsPlay.csproj": {}
+    "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\CollectionsPlay\\CollectionsPlay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\CollectionsPlay\\CollectionsPlay.csproj": {
+    "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\CollectionsPlay\\CollectionsPlay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\CollectionsPlay\\CollectionsPlay.csproj",
+        "projectUniqueName": "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\CollectionsPlay\\CollectionsPlay.csproj",
         "projectName": "CollectionsPlay",
-        "projectPath": "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\CollectionsPlay\\CollectionsPlay.csproj",
+        "projectPath": "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\CollectionsPlay\\CollectionsPlay.csproj",
         "packagesPath": "C:\\Users\\adel9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\CollectionsPlay\\obj\\",
+        "outputPath": "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\CollectionsPlay\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adel9\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\seedGenerator.csproj": {
-                "projectPath": "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\seedGenerator.csproj"
+              "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\seedGenerator.csproj": {
+                "projectPath": "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\seedGenerator.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\seedGenerator.csproj": {
+    "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\seedGenerator.csproj": {
       "version": "1.0.5",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\seedGenerator.csproj",
+        "projectUniqueName": "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\seedGenerator.csproj",
         "projectName": "Seido.Utilities.SeedGenerator",
-        "projectPath": "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\seedGenerator.csproj",
+        "projectPath": "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\seedGenerator.csproj",
         "packagesPath": "C:\\Users\\adel9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\obj\\",
+        "outputPath": "c:\\Users\\adel9\\OneDrive\\OPG1\\opg\\my repots\\CollectionsPlay\\seedGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adel9\\AppData\\Roaming\\NuGet\\NuGet.Config"
